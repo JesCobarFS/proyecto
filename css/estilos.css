@@ -45,7 +45,8 @@ body
 }
 #post
 {
-    padding: 1em;
+    background:#fff;
+    padding:1em
 }
 #footer{
     background-color: #777;
