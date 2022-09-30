@@ -10,4 +10,6 @@ Un blog increible para el curso de Git y Github de [Platzi](https://platzi.com/h
 * Trucos muy locos del profesor.
 * crado por juan 
 
+* Incluye ejemplos 
+* disponible para todas las edades
 y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegaste acá NO TE LO TOMES ENSERIO y mejor ve a ve el [curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "curso")
